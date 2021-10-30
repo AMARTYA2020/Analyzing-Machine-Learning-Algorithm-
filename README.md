@@ -1,3 +1,4 @@
 # Analyzing-Machine-Learning-Algorithm
 
-Logistic Regre
+Logistic Regression
+Support Vector Machine
